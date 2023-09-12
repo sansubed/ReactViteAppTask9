@@ -1,0 +1,41 @@
+.header {
+  background-color: hsl(12, 50%, 50%);
+  color: black;
+  line-height: 1;
+  height: 4rem;
+  width: 100vw;
+  padding-top: 10px;
+  padding-left: 10px;
+  position: relative;
+  top: 0;
+  left: 0;
+  font-family: "Fasthand", cursive;
+  font-family: "Headland One", serif;
+}
+
+.calculator {
+  padding: 20px;
+}
+label {
+  font-weight: bold;
+  margin-bottom: 5px;
+  padding: 10px;
+  margin: 10px;
+  font-size: xx-large;
+}
+.btn {
+  padding: 6px 10px;
+  background-color: #3b71ca;
+  color: white;
+  border: none;
+  font-size: x-large;
+  border-radius: 10px;
+}
+.btn:hover {
+  background-color: green;
+}
+input {
+  border: 5px solid blue;
+  border-radius: 10%;
+  font-size: xx-large;
+}
